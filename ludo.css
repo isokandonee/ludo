@@ -1,0 +1,31 @@
+td{
+    font-family: open sans,arial,sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+    border-radius: 0.5em;
+    border: 1px solid #fff;
+    box-shadow: 0 0 0.5em #000;
+
+}
+.red{
+    background-color:red;
+}
+.green{
+    background-color:green;
+}
+.blue{
+    background-color:blue;
+}
+.yellow{
+    background-color:yellow;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    /* max-width: fit-content; */
+}
