@@ -8,7 +8,8 @@ td{
 }
 td:hover{
     cursor: pointer;
-    border: 1px solid rgb(137, 155, 156);
+    border: 1px solid rgb(137, 155, 156);    
+    box-shadow: 0 0 0.8em #000;
     color: #000;
 }
 .red{
@@ -17,8 +18,8 @@ td:hover{
 .green{
     background-color:green;
 }
-.blue{
-    background-color:blue;
+.lightblue{
+    background-color:lightblue;
 }
 .yellow{
     background-color:yellow;
